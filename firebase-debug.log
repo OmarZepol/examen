@@ -1,0 +1,21 @@
+[debug] [2021-11-08T19:17:17.683Z] ----------------------------------------------------------------------
+[debug] [2021-11-08T19:17:17.692Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\olope\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-11-08T19:17:17.693Z] CLI Version:   9.22.0
+[debug] [2021-11-08T19:17:17.694Z] Platform:      win32
+[debug] [2021-11-08T19:17:17.694Z] Node Version:  v14.15.4
+[debug] [2021-11-08T19:17:17.696Z] Time:          Mon Nov 08 2021 13:17:17 GMT-0600 (hora estándar central)
+[debug] [2021-11-08T19:17:17.696Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-11-08T19:17:17.711Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-11-08T19:17:17.711Z] > authorizing via signed-in user (antonio2000juan@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\olope\Documents\UTVCO\10 CUATRIMESTRE\Desarrollo Web Progresivo\examen
+
